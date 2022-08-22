@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @tashish9
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently exploring Web dev
-- 💞️ I’m looking to collaborate on front-end projects
+- 🌱 I've picked my poison as JavaScript and i love it!
+- 💞️ I would love to collaborate on full stack Js projects
+Feel free to connect with me
  https://www.linkedin.com/in/tashish-soni-5483701a1
 
 <!---
