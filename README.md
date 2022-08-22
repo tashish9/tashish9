@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Dev
 - 🌱 I've picked my poison as JavaScript and i love it!
 - 💞️ I would love to collaborate on full stack Js projects
-Feel free to connect with me
+- Feel free to connect with me
  https://www.linkedin.com/in/tashish-soni-5483701a1
 
 <!---
